@@ -82,23 +82,6 @@ I'm a **Class 9 student** at **DTEA Senior Secondary School**, deeply passionate
 <tr>
 <td align="center">
 
-### ⚡ QuickRepair
-
-QuickRepair is a fast service platform that provides certified
-**mechanics** and **electricians** right to your doorstep
-— within **30 minutes**.
-Built with speed, reliability, and user trust at its core.
-
-<a href="https://quickrepairdl-19s.caffeine.xyz">
-![QuickRepair](https://img.shields.io/badge/🌐_Visit_QuickRepair-00ffcc?style=for-the-badge&logoColor=black)
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
