@@ -74,16 +74,6 @@ I'm a **Class 9 student** at **DTEA Senior Secondary School**, deeply passionate
 
 ---
 
-## 🚀 My Startup — QuickRepair
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -131,6 +121,6 @@ I'm a **Class 9 student** at **DTEA Senior Secondary School**, deeply passionate
      alt="Footer"
      width="100%" />
 
-*Made with ❤️ by Himanshu Pandey · Powered by curiosity & caffeine*
+*Made with ❤️ by Himanshu Pandey 
 
 </div>
