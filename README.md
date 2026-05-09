@@ -79,7 +79,7 @@ I'm a **Class 9 student** at **DTEA Senior Secondary School**, deeply passionate
 <div align="center">
 
 <a href="https://x.com/kanhaxhimanshu1" target="_blank">
-![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)
+[![X (Twitter)](https://img.shields.io/badge/X-@kanhaxhimanshu-black)](https://twitter.com/kanhaxhimanshu)
 </a>
 
 </div>
