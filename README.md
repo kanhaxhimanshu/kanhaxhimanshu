@@ -72,32 +72,9 @@ I'm a **Class 9 student** at **DTEA Senior Secondary School**, deeply passionate
 
 </div>
 
----
 
-## 🌐 Connect With Me
 
-<div align="center">
 
-<a href="https://x.com/kanhaxhimanshu1" target="_blank">
-[![X (Twitter)](https://img.shields.io/badge/X-@kanhaxhimanshu-black)](https://twitter.com/kanhaxhimanshu)
-</a>
-
-</div>
-
----
-
-## 📌 Current Focus
-
-<div align="center">
-
-| Area | Progress | Status |
-|---|---|---|
-| 🔐 Cybersecurity | `████████░░` 80% | 🟢 Active |
-| 🏗️ Building Projects | `██████░░░░` 65% | 🟢 Active |
-| 🤖 AI Tools | `███████░░░` 70% | 🟡 Learning |
-| ⌨️ Coding Skills | `██████░░░░` 60% | 🟢 Active |
-
-</div>
 
 ---
 
